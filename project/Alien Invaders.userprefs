@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Kodlar\Uzayli_RushKodu.cs">
+    <Files>
+      <File FileName="Assets\Kodlar\ArkaPlanHareket.cs" Line="1" Column="1" />
+      <File FileName="Assets\Kodlar\DusmanKodu.cs" Line="60" Column="57" />
+      <File FileName="Assets\Kodlar\Uzayli_kolayKodu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Kodlar\Uzayli_rastgeleKodu.cs" Line="93" Column="61" />
+      <File FileName="Assets\Kodlar\Uzayli_RushKodu.cs" Line="37" Column="41" />
+      <File FileName="Assets\Kodlar\OyuncuKodu.cs" Line="11" Column="10" />
+      <File FileName="Assets\Kodlar\Uzayli_tankKodu.cs" Line="23" Column="65" />
+      <File FileName="Assets\Kodlar\HaritaSinirlari.cs" Line="1" Column="1" />
+      <File FileName="Assets\Kodlar\Uzayli_hizliAtesKodu.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
